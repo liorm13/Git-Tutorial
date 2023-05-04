@@ -1,6 +1,6 @@
 # RAEDME and md format
 
-* this file was created on github.
+* this file was created online on github.
 
 md stands for markdown which is a way to format the text, lets see a few examples:
 * by using '#' before the text it made it a title text.
