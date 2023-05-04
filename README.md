@@ -14,3 +14,7 @@ the commits tab will show us all the commits we have made so far.
 when we enter these commits it shows us with green line and a '+' sign what lines were added,
 and with a red line and '-' sign which line was removed. 
 edited lines will show as deleted original line and then added edited line.
+
+if we continue to update the file without changing the default name we will get 
+the same name we got on the first edit - "Update README.md".
+it might be better to name each version on our own.
